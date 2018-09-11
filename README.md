@@ -27,18 +27,18 @@ Password for the user ```pi``` is ```raspberry```.
 
 1. Enable VNC
 
-	On the Raspberry Pi run
+    On the Raspberry Pi run
 
-	```sh
-	sudo raspi-config
-	```
+    ```sh
+    sudo raspi-config
+    ```
 
-	and navigate to ```Interfacing Options``` and enable ```VNC```.
+    and navigate to ```Interfacing Options``` and enable ```VNC```.
 
 2. Install VNC client
 
-	Download and install [RealVNC](https://www.realvnc.com/en/connect/download/vnc/) on your computer.
+    Download and install [RealVNC](https://www.realvnc.com/en/connect/download/vnc/) on your computer.
 
 3. Connect to Raspberry Pi
 
-	Open RealVNC and connect to ```192.168.1.11```.
+    Open RealVNC and connect to ```192.168.1.11```.
